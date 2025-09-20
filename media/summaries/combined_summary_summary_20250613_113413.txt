@@ -1,0 +1,1 @@
+The file `big_summary_10mb.txt` contains approximately 600 repetitions of the phrase "This is a sample line of dummy text for MySQL testing."  It's a large file of repetitive dummy data, likely created for testing purposes related to MySQL's ability to handle large datasets.

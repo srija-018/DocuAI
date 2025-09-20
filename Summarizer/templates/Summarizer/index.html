@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SmartChatter</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            "nude-purple": "#C9A6D3",
+            "nude-blue": "#9AC6F2"
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-gray-900 text-gray-200 font-sans min-h-screen p-8">
+  <div class="max-w-4xl mx-auto text-center space-y-10">
+    <h1 class="text-4xl font-bold text-nude-purple">Welcome to SmartChatter</h1>
+    <p class="text-lg text-gray-400">Choose how you want to start:</p>
+    <div class="grid md:grid-cols-2 gap-6">
+      <div class="bg-gray-800 rounded-2xl p-6 shadow-lg">
+        <h2 class="text-2xl font-semibold text-nude-purple">1. Upload File</h2>
+        <p class="mt-2 text-gray-300">Upload your files to generate summaries and insights.</p>
+        <button id="goToSummarize" class="mt-4 px-4 py-2 bg-nude-purple text-gray-900 font-semibold rounded-lg hover:bg-nude-blue transition">
+          Go to File Upload
+        </button>
+      </div>
+      <div class="bg-gray-800 rounded-2xl p-6 shadow-lg">
+        <h2 class="text-2xl font-semibold text-nude-purple">2. Upload Database</h2>
+        <p class="mt-2 text-gray-300">Upload your database and perform semantic search queries.</p>
+        <button id="goToChatbot" class="mt-4 px-4 py-2 bg-nude-purple text-gray-900 font-semibold rounded-lg hover:bg-nude-blue transition">
+          Go to Database Upload
+        </button>
+      </div>
+    </div>
+  </div>
+  <script>
+  document.getElementById('goToSummarize').addEventListener('click', () => {
+    window.location.href = '/ui/summarize/?view=summarize';
+  });
+  document.getElementById('goToChatbot').addEventListener('click', () => {
+    window.location.href = '/ui/summarize/?view=chatbot';
+  });
+</script>
+</body>
+</html>

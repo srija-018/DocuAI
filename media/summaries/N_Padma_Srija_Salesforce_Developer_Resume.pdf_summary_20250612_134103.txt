@@ -1,0 +1,75 @@
+This is a good start to a resume, but it can be significantly improved for clarity, consistency, and impact. Here's a revised version with suggestions:
+
+**NULI PADMA SRIJA**
+nulipadmasrija@gmail.com | www.linkedin.com/in/srija-nuli | github.com/srija | +91-9618678613
+
+**Summary**
+
+Highly motivated and results-oriented Data Science student at GITAM University with experience in developing predictive models, building chatbots, and conducting data analysis.  Proficient in Python, machine learning algorithms, and data visualization tools.  Seeking an entry-level Data Science role to leverage analytical skills and contribute to innovative projects.
+
+
+**Education**
+
+* **Bachelor of Technology (B.Tech), Computer Science Engineering - Data Science** | GITAM (Deemed to be University), Visakhapatnam, Andhra Pradesh | August 2022 – Present | CGPA: 8.19
+* **Intermediate MPC** | SRI VISHWA Junior College, Visakhapatnam, Andhra Pradesh |  *Include Dates if Possible* | Percentage: 90.4%
+* **Secondary Education** | The Presidential School, Visakhapatnam, Andhra Pradesh | *Include Dates if Possible* | Percentage: 85.2%
+
+
+**Experience**
+
+* **Python and Artificial Intelligence Internship, Pandora Tech R&D** | May 2025 – Present
+    * Developed a conversational chatbot with intent recognition using Django, MySQL, and frontend technologies (HTML/CSS, JavaScript).
+    * Implemented REST APIs and applied OOP principles for modular and maintainable code.
+    * Contributed to tools for data processing and automated file summarization.
+* **Data Science and Machine Learning Intern, YBI Foundation (Virtual)** | May 2024 – June 2024
+    * Developed a predictive model for bank customer churn using Support Vector Machines (SVM) on a dataset of 10,000 records.
+    * Implemented data preprocessing techniques, including Random Over Sampling and Under Sampling, to address class imbalance.
+
+
+**Projects**
+
+* **Plant Disease Classification** | March 2025 – April 2025
+    * Developed a deep learning model using EfficientNetB0 and transfer learning to classify 15 types of plant diseases from the PlantVillage dataset.
+    * Achieved high validation accuracy and utilized Grad-CAM for model interpretability.  *Quantify "high validation accuracy" with a percentage if possible.*
+* **Bank Customer Churn Prediction** | May 2024 – June 2024
+    * Developed a predictive model using Support Vector Machines (SVM) to identify customers likely to churn.
+    * Improved model performance through data preprocessing and addressing class imbalance using Random Over Sampling and Under Sampling. *Quantify improvement if possible (e.g., "Improved accuracy by X%")*
+* **Sales Dashboard Capstone Project** | August 2024 – August 2024
+    * Analyzed sales data in Excel to identify key trends across regions, products, and time periods using pivot tables and visualizations (bar charts, line graphs, pie charts).
+    * Implemented interactive filters (slicers) to enhance data exploration.
+
+
+**Skills**
+
+* **Programming Languages:** Python (Pandas, NumPy, Scikit-learn), R, C
+* **Databases:** SQL, Oracle SQL, MySQL, MongoDB
+* **Tools & Technologies:**  TensorFlow, Django, HTML/CSS, JavaScript, REST APIs, Matplotlib, Seaborn, Excel
+* **Machine Learning:** SVM, Deep Learning (CNNs), Transfer Learning
+* **Data Analysis & Visualization:** Data preprocessing, Data cleaning, Data visualization, Pivot Tables
+* **Soft Skills:** Leadership, Time Management, Communication, Teamwork, Creativity, Adaptability, Problem Solving, Organization, Critical Thinking
+
+
+**Certifications**
+
+* Excel Bootcamp (Let's Upgrade)
+* Python 101 for Data Science (IBM)
+
+
+**Extracurricular Activities**
+
+* Lead of Documentation, Throwball SIG, Directorate Sports & NCC, GITAM
+
+
+**Key Improvements:**
+
+* **Added a Summary:**  This highlights key skills and experience immediately.
+* **Combined Similar Sections:**  Combined the redundant "Work Experience" and "Projects" sections that described the same projects.
+* **Quantifiable Results:**  Emphasized quantifiable results whenever possible (e.g., dataset size, accuracy improvements).
+* **Improved Formatting:**  Used bullet points consistently and improved the overall readability.
+* **Skills Section Reorganized:** Grouped skills logically for better readability and impact.
+* **Removed Redundancy:** Removed duplicated information (e.g., the skills learned in projects were already listed under skills).
+* **Stronger Action Verbs:** Used stronger action verbs to describe accomplishments.
+* **Professional Tone:** Maintained a professional tone throughout the resume.
+
+
+Remember to tailor this resume to each specific job application by highlighting the skills and experiences most relevant to the job description.  Also, make sure the dates are complete for your education and experience.
